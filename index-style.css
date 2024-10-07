@@ -1,0 +1,98 @@
+@font-face {
+    font-family: dakodako;
+    src: url(./dakodako.ttf);
+    font-family: mahalon;
+    src: url(./mahalon.ttf);
+    font-family: bagaa;
+    src: url(./bagaa.ttf);
+    font-family: lobster;
+    src: url(./lobster.ttf);
+    font-family: pacific;
+    src: url(./pacific.ttf);
+    font-family: sayaw;
+    src: url(./sayaw.ttf);
+    font-family: masbaga;
+    src: url(./masbaga.ttf);
+}
+
+.mas-dako {
+    background-color: #7A5741;
+    height: 1790px;
+    width: 1790px;
+    size: 1800px;
+    border: 20px solid black;
+    text-align: center;
+}
+
+.una {
+    border: 20px solid black;
+    size: 200px;
+    height: 80px;
+    width: 500px;
+    margin-left: 530px;
+    margin-top: 10px;
+    padding: 100px;
+    font-family: sayaw;
+
+}
+
+.tulo {
+    text-align: center;
+}
+
+.upat {
+    background-color: #9A735C;
+    border: 10px solid black;
+    height: 1050px;
+    size: 20px;
+    width: 1740px;
+    margin-left: 15px;
+}
+
+.upat-una {
+    background-color: rgba(219, 126, 157, 0.733);
+    border: solid black;
+    size: 200px;
+    height: 160px;
+    width: 250px;
+    padding: 10px;
+    margin-left: 100px;
+
+    p {
+        font-family: masbaga;
+    }
+}
+
+.upat-duha {
+    background-color: rgb(161, 161, 223);
+    border: solid black;
+    size: 200px;
+    height: 160px;
+    width: 250px;
+    padding: 10px;
+    margin-left: 500px;
+}
+
+.upat-tulo {
+    background-color: rgb(219, 219, 70);
+    border: solid black;
+    size: 200px;
+    height: 270px;
+    width: 250px;
+    padding: 10px;
+    margin-left: 900px;
+}
+
+.upat-upat {
+    background-color: rgb(128, 197, 128);
+    border: solid black;
+    size: 200px;
+    height: 270px;
+    width: 250px;
+    padding: 10px;
+    margin-left: 1300px;
+}
+
+.upat-una-una {
+    font-family: lobster;
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: pinakatay;
+    src: url(./pinakatay.ttf);
+}
+
+*{
+    background-color: burlywood;
+}
+h1 {
+    font-family: pinakatay;
+}
+
+li{
+    font-family: pinakatay;
+}
